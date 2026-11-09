@@ -4,6 +4,8 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
+[English](README.en.md) · **中文**
+
 ## 为什么不用录屏软件
 
 实时录屏在无头浏览器里实测只有 **~8fps**（帧间隔中位数 24ms，P95 高达 274ms），而且随机器负载波动。10 分钟的片子必然卡顿掉帧，不可交付。
