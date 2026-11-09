@@ -6,7 +6,7 @@ agent_created: true
 
 # 把 HTML 演示页录成 MP4
 
-> 前置条件（node / playwright-core / ffmpeg）、两种页面形态怎么分辨、以及它和 `voice-to-deck` 的上下游关系，见 [README.md](README.md)。
+> 前置条件（node / playwright-core / ffmpeg）、两种页面形态怎么分辨、以及它和 [`voice-to-deck`](https://github.com/Rodegrs-lin/voice-to-deck) 的上下游关系，见 [README.md](README.md)。
 
 ## 用途
 

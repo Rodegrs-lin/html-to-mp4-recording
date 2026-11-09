@@ -71,7 +71,9 @@ node scripts/verify_mp4.mjs --mp4 成片.mp4 --mp3 口播.mp3 --sfx-tl 音效事
    ↓  html-to-mp4-recording（本包，导出 MP4）
 ```
 
-- **上游 `voice-to-deck`** —— 本包认它产的页面（形态 B，`window.__rec`）
+上游那个在 [github.com/Rodegrs-lin/voice-to-deck](https://github.com/Rodegrs-lin/voice-to-deck)。
+
+- **上游 [`voice-to-deck`](https://github.com/Rodegrs-lin/voice-to-deck)** —— 本包认它产的页面（形态 B，`window.__rec`）
 - **可选 `anchor-driven-demo-page`** —— 高密度单文件演示页（形态 A）；装了可以用它的 `check-timing-gaps` / `check-motion-coverage` 做录前检查
 - **可选 `video-frame-sharpness-forensics`** —— 成片「看起来糊」时做像素级归因，别瞎调参数
 
