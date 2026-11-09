@@ -1,0 +1,16 @@
+# 依赖
+node_modules/
+
+# 录制过程产物
+_rec/
+rec-*/
+_trash/
+*.tmp
+*.wav
+
+# 临时
+.DS_Store
+Thumbs.db
+*.log
+.vscode/
+.idea/
